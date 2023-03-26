@@ -1,0 +1,54 @@
+.facebook {
+    display: inline-block;
+    color: #3b5998;
+    font-size: 30px;
+    padding: 15px;
+    border: solid 2px #3b5998;
+    border-radius: 50%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.twitter {
+    display: inline-block;
+    color: #00acee;
+    font-size: 30px;
+    padding: 15px;
+    border: solid 2px #00acee;
+    border-radius: 50%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.instagram {
+    display: inline-block;
+    color: #5460a8;
+    font-size: 30px;
+    padding: 15px;
+    border: solid 2px #5460a8;
+    border-radius: 50%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.linkedin {
+    display: inline-block;
+    color: #006eb9;
+    font-size: 30px;
+    padding: 15px;
+    border: solid 2px #006eb9;
+    border-radius: 50%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.user {
+    display: inline-block;
+    color: #020df2;
+    font-size: 30px;
+    padding: 15px;
+    border: solid 2px #020df2;
+    border-radius: 50%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
