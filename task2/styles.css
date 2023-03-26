@@ -1,0 +1,56 @@
+@font-face {
+    font-family: "italicfont1";
+    src: url(./fonts/font1/PlayfairDisplay-Italic-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: "font1";
+    src: url(./fonts/font1/PlayfairDisplay-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: "font2";
+    src: url(./fonts/font2/Comfortaa-VariableFont_wght.ttf);
+}
+
+h1 {
+    text-align: center;
+    font-family: italicfont1, sans-serif;
+    font-weight: 500;
+}
+
+p {
+    font-family: font1, sans-serif;
+    text-align: center;
+    font-weight: 500;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 400px;
+}
+
+.lorem {
+    display: flex;
+    justify-content: center;
+}
+
+.txt {
+    text-align: left;  
+}
+
+.r {
+    margin-left: 45%;
+    width: 105px;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+
+.rm {
+    font-size: 13px;
+    font-family: font2;
+    font-weight: 700;
+}
